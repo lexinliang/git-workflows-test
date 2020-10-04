@@ -1,0 +1,22 @@
+.getBalance_wrap {
+  margin-bottom: 20px;
+  .inpit_wrap {
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  .roll_wrap {
+    width: 350px;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    background: #000000;
+    .tag_wrap {
+      width: 300px;
+    }
+  }
+  .getOrder {
+    margin-top: 20px;
+  }
+}
